@@ -1,0 +1,22 @@
+{
+  "name": "utils-next",
+  "version": "1.0.0",
+  "description": "NPM package for utils that provide next number | random number | char | word etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test && ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAmAnubhavSaini/utils-next.git"
+  },
+  "author": "Anubhav Saini <IAmAnubhavSaini@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IAmAnubhavSaini/utils-next/issues"
+  },
+  "homepage": "https://github.com/IAmAnubhavSaini/utils-next#readme",
+  "devDependencies": {
+    "ava": "^0.15.2"
+  }
+}
